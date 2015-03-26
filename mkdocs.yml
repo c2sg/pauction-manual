@@ -9,6 +9,6 @@ pages:
 - ['userguide/kihonkinou.md', 'User Guide', '基本機能説明・操作']
 - ['userguide/nyuusatsukinou.md', 'User Guide', '入札機能説明・操作']
 
-# theme: readthedocs
+theme: mkdocs
 
 copyright: Copyright &copy; 2015, <a href="https://www.cloud-consulting.asia/eng/">Cloud Consulting Pte., Ltd.</a>.
