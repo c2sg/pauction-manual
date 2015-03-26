@@ -1,0 +1,14 @@
+site_name: オークション
+site_url: http://pauction.c2sg.net/c/
+site_description: オークションシステム
+
+
+pages:
+- ['index.md', 'Home']
+- ['userguide/shiyoukaishi.md', 'User Guide', '使用開始']
+- ['userguide/kihonkinou.md', 'User Guide', '基本機能説明・操作']
+- ['userguide/nyuusatsukinou.md', 'User Guide', '入札機能説明・操作']
+
+# theme: readthedocs
+
+copyright: Copyright &copy; 2015, <a href="https://www.cloud-consulting.asia/eng/">Cloud Consulting Pte., Ltd.</a>.
