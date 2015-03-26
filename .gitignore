@@ -1,2 +1,8 @@
 *.DS_Store
 *.eps
+conf.py
+make.bat
+Makefile
+_build
+_static
+_templates
